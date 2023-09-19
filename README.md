@@ -1,3 +1,3 @@
 # Odin Recipes
 
-## A small recpie site using basic html + css for TOP
+## A small recipe site using basic html + css for TOP
